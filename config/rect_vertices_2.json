@@ -1,0 +1,124 @@
+{
+    "vertices": {
+        "vertice1": {
+            "left_top": [
+                30,
+                35
+            ],
+            "right_bottom": [
+                147,
+                141
+            ]
+        },
+        "vertice2": {
+            "left_top": [
+                172,
+                36
+            ],
+            "right_bottom": [
+                287,
+                140
+            ]
+        },
+        "vertice3": {
+            "left_top": [
+                312,
+                35
+            ],
+            "right_bottom": [
+                428,
+                139
+            ]
+        },
+        "vertice4": {
+            "left_top": [
+                453,
+                33
+            ],
+            "right_bottom": [
+                567,
+                137
+            ]
+        },
+        "vertice5": {
+            "left_top": [
+                33,
+                184
+            ],
+            "right_bottom": [
+                146,
+                289
+            ]
+        },
+        "vertice6": {
+            "left_top": [
+                174,
+                184
+            ],
+            "right_bottom": [
+                287,
+                288
+            ]
+        },
+        "vertice7": {
+            "left_top": [
+                314,
+                181
+            ],
+            "right_bottom": [
+                428,
+                285
+            ]
+        },
+        "vertice8": {
+            "left_top": [
+                455,
+                180
+            ],
+            "right_bottom": [
+                568,
+                286
+            ]
+        },
+        "vertice9": {
+            "left_top": [
+                35,
+                334
+            ],
+            "right_bottom": [
+                147,
+                437
+            ]
+        },
+        "vertice10": {
+            "left_top": [
+                175,
+                331
+            ],
+            "right_bottom": [
+                289,
+                435
+            ]
+        },
+        "vertice11": {
+            "left_top": [
+                316,
+                331
+            ],
+            "right_bottom": [
+                429,
+                434
+            ]
+        },
+        "vertice12": {
+            "left_top": [
+                456,
+                329
+            ],
+            "right_bottom": [
+                571,
+                433
+            ]
+        }
+    }
+}

@@ -1,0 +1,124 @@
+{
+    "vertices": {
+        "vertice1": {
+            "left_top": [
+                90.0,
+                4.0
+            ],
+            "right_bottom": [
+                208.0,
+                111.0
+            ]
+        },
+        "vertice2": {
+            "left_top": [
+                232.0,
+                4.0
+            ],
+            "right_bottom": [
+                349.0,
+                111.0
+            ]
+        },
+        "vertice3": {
+            "left_top": [
+                373.0,
+                4.0
+            ],
+            "right_bottom": [
+                489.0,
+                111.0
+            ]
+        },
+        "vertice4": {
+            "left_top": [
+                513.0,
+                4.0
+            ],
+            "right_bottom": [
+                630.0,
+                111.0
+            ]
+        },
+        "vertice5": {
+            "left_top": [
+                90.0,
+                151.0
+            ],
+            "right_bottom": [
+                208.0,
+                258.0
+            ]
+        },
+        "vertice6": {
+            "left_top": [
+                232.0,
+                151.0
+            ],
+            "right_bottom": [
+                349.0,
+                258.0
+            ]
+        },
+        "vertice7": {
+            "left_top": [
+                373.0,
+                151.0
+            ],
+            "right_bottom": [
+                489.0,
+                258.0
+            ]
+        },
+        "vertice8": {
+            "left_top": [
+                513.0,
+                151.0
+            ],
+            "right_bottom": [
+                630.0,
+                258.0
+            ]
+        },
+        "vertice9": {
+            "left_top": [
+                90.0,
+                300.0
+            ],
+            "right_bottom": [
+                208.0,
+                408.0
+            ]
+        },
+        "vertice10": {
+            "left_top": [
+                232.0,
+                300.0
+            ],
+            "right_bottom": [
+                349.0,
+                408.0
+            ]
+        },
+        "vertice11": {
+            "left_top": [
+                373.0,
+                300.0
+            ],
+            "right_bottom": [
+                489.0,
+                408.0
+            ]
+        },
+        "vertice12": {
+            "left_top": [
+                513.0,
+                300.0
+            ],
+            "right_bottom": [
+                630.0,
+                408.0
+            ]
+        }
+    }
+}
